@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 My name is Lena.
 
 <!--
 **LenaVolkova/LenaVolkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I'm data analyst | Python, SQL  
+- 🚀 I'm learning: algorithms, data structure, AI  
+- 📫How to reach me: [Telegram]@lena_wolkova | [LinkedIn] www.linkedin.com/in/elena--volkova
